@@ -1,0 +1,1 @@
+# ticketing-project-microservices-config
